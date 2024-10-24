@@ -1,0 +1,137 @@
+/* Learn.module.css */
+.container {
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgb(239 246 255) 0%, rgb(245 243 255) 100%);
+    padding: 1.5rem;
+  }
+  
+  .wrapper {
+    max-width: 36rem; /* Slightly larger for Learn */
+    margin: 0 auto;
+  }
+  
+  .card {
+    background-color: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    transition: all 500ms ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 25px 30px -10px rgb(0 0 0 / 0.15), 0 12px 15px -8px rgb(0 0 0 / 0.1);
+  }
+  
+  .progressContainer {
+    margin-bottom: 2rem;
+    position: relative;
+  }
+  
+  .progressBar {
+    height: 0.5rem;
+    background-color: rgb(229 231 235);
+    border-radius: 9999px;
+    overflow: hidden;
+  }
+  
+  .progressFill {
+    height: 100%;
+    background: linear-gradient(to right, rgb(59 130 246), rgb(168 85 247), rgb(34 197 94));
+    border-radius: 9999px;
+    transition: width 500ms ease;
+  }
+  
+  /* Interactive Grid and Cards */
+  .buttonGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Adjust as needed */
+    gap: 1rem;
+  }
+  
+  .optionButton {
+    position: relative;
+    overflow: hidden;
+    padding: 1.5rem;
+    border-radius: 0.75rem;
+    border: 2px solid rgb(229 231 235);
+    background-color: white;
+    transition: all 300ms ease;
+  }
+  
+  .optionButton:hover:not(.disabled) {
+    border-color: rgb(59 130 246);
+  }
+  
+  .optionButton.selected {
+    color: white;
+    border-color: transparent;
+  }
+  
+  /* Example of state-based styles for Learn page */
+  .optionButton.selectedLearning {
+    background-color: rgb(139 92 246);
+  }
+  
+  /* Animations and hover effects */
+  .emoji {
+    font-size: 2rem;
+    transition: transform 300ms ease;
+  }
+  
+  .optionButton:hover .emoji {
+    transform: scale(1.1);
+  }
+  
+  /* Footer Navigation */
+  .navigationButtons {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .continueButton {
+    padding: 0.75rem 1.5rem;
+    background: linear-gradient(to right, rgb(59 130 246), rgb(139 92 246));
+    color: white;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: opacity 300ms ease;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .continueButton:hover {
+    opacity: 0.9;
+  }
+  
+  .chevron {
+    width: 1rem;
+    height: 1rem;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 640px) {
+    .container {
+      padding: 1rem;
+    }
+    
+    .card {
+      padding: 1rem;
+    }
+    
+    .optionButton {
+      padding: 1rem;
+    }
+    
+    .emoji {
+      font-size: 1.5rem;
+    }
+    
+    .optionName {
+      font-size: 1.125rem;
+    }
+  }
+  

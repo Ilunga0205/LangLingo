@@ -1,0 +1,365 @@
+{
+  "sentences": [
+    {
+      "sentence_id": "1",
+      "content": "Bonjour, how are you today?",
+      "mixed_content": [
+        {"text": "Bonjour", "language_code": "FR"},
+        {"text": "how are you today", "language_code": "EN"}
+      ],
+      "translation": "Hello, how are you today?",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "2",
+      "content": "It's time to dormir.",
+      "mixed_content": [
+        {"text": "It's time to", "language_code": "EN"},
+        {"text": "dormir", "language_code": "FR"}
+      ],
+      "translation": "It's time to sleep.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "3",
+      "content": "Merci for helping me.",
+      "mixed_content": [
+        {"text": "Merci", "language_code": "FR"},
+        {"text": "for helping me", "language_code": "EN"}
+      ],
+      "translation": "Thank you for helping me.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "4",
+      "content": "Je m'appelle John, and you?",
+      "mixed_content": [
+        {"text": "Je m'appelle John", "language_code": "FR"},
+        {"text": "and you", "language_code": "EN"}
+      ],
+      "translation": "My name is John, and you?",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "5",
+      "content": "This is my livre préféré.",
+      "mixed_content": [
+        {"text": "This is my", "language_code": "EN"},
+        {"text": "livre préféré", "language_code": "FR"}
+      ],
+      "translation": "This is my favorite book.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "6",
+      "content": "Let's go to the parc.",
+      "mixed_content": [
+        {"text": "Let's go to the", "language_code": "EN"},
+        {"text": "parc", "language_code": "FR"}
+      ],
+      "translation": "Let's go to the park.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "7",
+      "content": "Je veux apprendre l'anglais.",
+      "mixed_content": [
+        {"text": "Je veux apprendre", "language_code": "FR"},
+        {"text": "l'anglais", "language_code": "FR"}
+      ],
+      "translation": "I want to learn English.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "8",
+      "content": "Good night, mon ami.",
+      "mixed_content": [
+        {"text": "Good night", "language_code": "EN"},
+        {"text": "mon ami", "language_code": "FR"}
+      ],
+      "translation": "Good night, my friend.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "9",
+      "content": "Où est la gare, please?",
+      "mixed_content": [
+        {"text": "Où est la gare", "language_code": "FR"},
+        {"text": "please", "language_code": "EN"}
+      ],
+      "translation": "Where is the train station, please?",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "10",
+      "content": "Today is a beau jour.",
+      "mixed_content": [
+        {"text": "Today is a", "language_code": "EN"},
+        {"text": "beau jour", "language_code": "FR"}
+      ],
+      "translation": "Today is a beautiful day.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Beginner"
+    },
+    {
+      "sentence_id": "11",
+      "content": "I like to écouter de la musique every evening.",
+      "mixed_content": [
+        {"text": "I like to", "language_code": "EN"},
+        {"text": "écouter de la musique every evening", "language_code": "FR"}
+      ],
+      "translation": "I like to listen to music every evening.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "12",
+      "content": "She is vraiment gentille.",
+      "mixed_content": [
+        {"text": "She is", "language_code": "EN"},
+        {"text": "vraiment gentille", "language_code": "FR"}
+      ],
+      "translation": "She is really kind.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "13",
+      "content": "Il pleut beaucoup aujourd'hui, so stay inside.",
+      "mixed_content": [
+        {"text": "Il pleut beaucoup aujourd'hui", "language_code": "FR"},
+        {"text": "so stay inside", "language_code": "EN"}
+      ],
+      "translation": "It's raining a lot today, so stay inside.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "14",
+      "content": "I don't understand pourquoi c'est difficile.",
+      "mixed_content": [
+        {"text": "I don't understand", "language_code": "EN"},
+        {"text": "pourquoi c'est difficile", "language_code": "FR"}
+      ],
+      "translation": "I don't understand why it's difficult.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "15",
+      "content": "He loves jouer au football on weekends.",
+      "mixed_content": [
+        {"text": "He loves", "language_code": "EN"},
+        {"text": "jouer au football on weekends", "language_code": "FR"}
+      ],
+      "translation": "He loves playing football on weekends.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "16",
+      "content": "La nuit dernière, we watched a movie.",
+      "mixed_content": [
+        {"text": "La nuit dernière", "language_code": "FR"},
+        {"text": "we watched a movie", "language_code": "EN"}
+      ],
+      "translation": "Last night, we watched a movie.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "17",
+      "content": "Il fait chaud en été ici.",
+      "mixed_content": [
+        {"text": "Il fait chaud", "language_code": "FR"},
+        {"text": "en été ici", "language_code": "FR"}
+      ],
+      "translation": "It’s hot in summer here.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "18",
+      "content": "She's working à l'école.",
+      "mixed_content": [
+        {"text": "She's working", "language_code": "EN"},
+        {"text": "à l'école", "language_code": "FR"}
+      ],
+      "translation": "She's working at the school.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "19",
+      "content": "Can you speak plus lentement, please?",
+      "mixed_content": [
+        {"text": "Can you speak", "language_code": "EN"},
+        {"text": "plus lentement", "language_code": "FR"},
+        {"text": "please", "language_code": "EN"}
+      ],
+      "translation": "Can you speak more slowly, please?",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "20",
+      "content": "L'ordinateur ne fonctionne pas, call support.",
+      "mixed_content": [
+        {"text": "L'ordinateur ne fonctionne pas", "language_code": "FR"},
+        {"text": "call support", "language_code": "EN"}
+      ],
+      "translation": "The computer isn’t working, call support.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Intermediate"
+    },
+    {
+      "sentence_id": "21",
+      "content": "Il est essentiel to stay focused while studying.",
+      "mixed_content": [
+        {"text": "Il est essentiel", "language_code": "FR"},
+        {"text": "to stay focused while studying", "language_code": "EN"}
+      ],
+      "translation": "It is essential to stay focused while studying.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "22",
+      "content": "Despite the challenges, elle a réussi à atteindre son objectif.",
+      "mixed_content": [
+        {"text": "Despite the challenges", "language_code": "EN"},
+        {"text": "elle a réussi à atteindre son objectif", "language_code": "FR"}
+      ],
+      "translation": "Despite the challenges, she managed to achieve her goal.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "23",
+      "content": "The project requires beaucoup de temps et de patience.",
+      "mixed_content": [
+        {"text": "The project requires", "language_code": "EN"},
+        {"text": "beaucoup de temps et de patience", "language_code": "FR"}
+      ],
+      "translation": "The project requires a lot of time and patience.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "24",
+      "content": "We need to communicate efficacement pour réussir.",
+      "mixed_content": [
+        {"text": "We need to communicate", "language_code": "EN"},
+        {"text": "efficacement pour réussir", "language_code": "FR"}
+      ],
+      "translation": "We need to communicate effectively to succeed.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "25",
+      "content": "Les opportunités ne viennent pas souvent, seize them.",
+      "mixed_content": [
+        {"text": "Les opportunités ne viennent pas souvent", "language_code": "FR"},
+        {"text": "seize them", "language_code": "EN"}
+      ],
+      "translation": "Opportunities don’t come often, seize them.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "26",
+      "content": "La gestion des finances est complexe, especially with inflation.",
+      "mixed_content": [
+        {"text": "La gestion des finances est complexe", "language_code": "FR"},
+        {"text": "especially with inflation", "language_code": "EN"}
+      ],
+      "translation": "Managing finances is complex, especially with inflation.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "27",
+      "content": "Il a démontré un haut niveau d'intégrité, which impressed everyone.",
+      "mixed_content": [
+        {"text": "Il a démontré un haut niveau d'intégrité", "language_code": "FR"},
+        {"text": "which impressed everyone", "language_code": "EN"}
+      ],
+      "translation": "He demonstrated a high level of integrity, which impressed everyone.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "28",
+      "content": "Despite the setbacks, ils ont persévéré.",
+      "mixed_content": [
+        {"text": "Despite the setbacks", "language_code": "EN"},
+        {"text": "ils ont persévéré", "language_code": "FR"}
+      ],
+      "translation": "Despite the setbacks, they persevered.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "29",
+      "content": "Le développement personnel est un processus continuous.",
+      "mixed_content": [
+        {"text": "Le développement personnel est un processus", "language_code": "FR"},
+        {"text": "continuous", "language_code": "EN"}
+      ],
+      "translation": "Personal development is a continuous process.",
+      "language_code": "FR",
+      "learning_language": "EN",
+      "level": "Advanced"
+    },
+    {
+      "sentence_id": "30",
+      "content": "You must handle chaque situation avec prudence.",
+      "mixed_content": [
+        {"text": "You must handle", "language_code": "EN"},
+        {"text": "chaque situation avec prudence", "language_code": "FR"}
+      ],
+      "translation": "You must handle each situation with caution.",
+      "language_code": "EN",
+      "learning_language": "FR",
+      "level": "Advanced"
+    }
+  ]
+}
